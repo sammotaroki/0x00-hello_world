@@ -24,6 +24,5 @@ char *leet(char *c)
 		}
 		counter++;
 	}
-
 	return (c);
 }
